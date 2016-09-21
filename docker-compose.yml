@@ -1,0 +1,35 @@
+  web:
+    build: .
+    command: /etc/start.sh
+    links:
+      - db
+    ports:
+      - 80:80
+      - 9089:9089
+    volumes_from:
+      - data
+  db:
+    image: mysql:latest
+    volumes:
+      - /var/lib/mysql
+    ports:
+      - 3306:3306
+    environment:
+      - MYSQL_USER=xxxx
+      - MYSQL_PASSWORD=xxxx
+      - MYSQL_DATABASE=xxxx
+      - MYSQL_ROOT_PASSWORD=xxxx
+    volumes_from:
+      - data
+  data:
+    image: busybox
+    volumes:
+      - /path/to/project/:/var/www/html/
+      - /path/to/project/docker/db/myconf.d/:/etc/mysql/conf.d/
+      - /path/to/project/docker/data/nginx/conf.d/:/etc/nginx/conf.d/
+      - /path/to/project/docker/data/nginx/sites-available/:/etc/nginx/sites-available/
+      - /path/to/project/docker/data/nginx/nginx.conf:/etc/nginx/nginx.conf
+      - /path/to/project/docker/data/nginx/global/:/etc/nginx/global/
+
+
+

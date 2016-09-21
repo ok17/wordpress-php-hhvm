@@ -1,0 +1,1352 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-12-18 17:14+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kurudrive <kurudrive@gmail.com>\n"
+"Language-Team: Vektor,Inc. <info@vektor-inc.co.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin_wrapper.php:7 admin_wrapper.php:8 plugins/meta_keyword.php:103
+msgid "Main setting"
+msgstr ""
+
+#: admin_wrapper.php:76
+msgid "Activated Packages is noting. please activate some package."
+msgstr ""
+
+#: common_helpers.php:111
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: common_helpers.php:113 common_helpers.php:251
+msgid "Y"
+msgstr ""
+
+#: common_helpers.php:115 common_helpers.php:255
+msgid "F Y"
+msgstr ""
+
+#: common_helpers.php:117
+msgid "F j, Y"
+msgstr ""
+
+#: common_helpers.php:120
+msgid "Asides"
+msgstr ""
+
+#: common_helpers.php:122
+msgid "Galleries"
+msgstr ""
+
+#: common_helpers.php:124
+msgid "Images"
+msgstr ""
+
+#: common_helpers.php:126
+msgid "Videos"
+msgstr ""
+
+#: common_helpers.php:128
+msgid "Quotes"
+msgstr ""
+
+#: common_helpers.php:130
+msgid "Links"
+msgstr ""
+
+#: common_helpers.php:132
+msgid "Statuses"
+msgstr ""
+
+#: common_helpers.php:134
+msgid "Audio"
+msgstr ""
+
+#: common_helpers.php:136
+msgid "Chats"
+msgstr ""
+
+#: common_helpers.php:152 plugins/other_widget/widget-taxonomies.php:81
+msgid "Archives"
+msgstr ""
+
+#: common_helpers.php:195
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: common_helpers.php:198
+msgid "Not found"
+msgstr ""
+
+#: common_helpers.php:207 common_helpers.php:279
+#, php-format
+msgid "Page of %s"
+msgstr ""
+
+#: common_helpers.php:239 common_helpers.php:247
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: common_helpers.php:252 common_helpers.php:256 common_helpers.php:260
+#: common_helpers.php:264
+#, php-format
+msgid "Article of %s."
+msgstr ""
+
+#: packages.php:68
+msgid "Print Bootstrap css and js"
+msgstr ""
+
+#: packages.php:69
+msgid ""
+"If your using theme has already including Bootstrap, you deactivate this "
+"item."
+msgstr ""
+
+#: packages.php:78
+msgid "Print link fontawesome"
+msgstr ""
+
+#: packages.php:79
+msgid "Print fontawesome link tag to html head."
+msgstr ""
+
+#: packages.php:88
+msgid "Favicon setting"
+msgstr ""
+
+#: packages.php:89
+msgid "About favicon."
+msgstr ""
+
+#: packages.php:99
+msgid "Rewrite the title tag"
+msgstr ""
+
+#: packages.php:100
+msgid "Print is rewritten by its own rules to html head."
+msgstr ""
+
+#: packages.php:109
+msgid "Print meta Keyword"
+msgstr ""
+
+#: packages.php:110
+msgid "Print meta Keyword to html head."
+msgstr ""
+
+#: packages.php:113 packages.php:152 packages.php:170 packages.php:200
+#: packages.php:218 packages.php:260 packages.php:296 packages.php:319
+msgid "Setting"
+msgstr ""
+
+#: packages.php:126
+msgid "Print meta description"
+msgstr ""
+
+#: packages.php:127
+msgid "Print meta description to html head."
+msgstr ""
+
+#: packages.php:136
+msgid "Main setting page"
+msgstr ""
+
+#: packages.php:138
+msgid "Print og tags to html head."
+msgstr ""
+
+#: packages.php:139
+msgid "Print twitter card tags to html head."
+msgstr ""
+
+#: packages.php:140
+msgid "Print social bookmark buttons."
+msgstr ""
+
+#: packages.php:141
+msgid "Facebook Page Plugin widget."
+msgstr ""
+
+#: packages.php:142
+msgid "Print Follow me box to content bottom."
+msgstr ""
+
+#: packages.php:144
+#, php-format
+msgid "* You can stop the function separately from the %s."
+msgstr ""
+
+#: packages.php:148
+msgid "Social media cooperation"
+msgstr ""
+
+#: packages.php:167
+msgid "Print Google Analytics tracking code."
+msgstr ""
+
+#: packages.php:183
+msgid "You can use various widgets."
+msgstr ""
+
+#: packages.php:185
+msgid ""
+"VK_Recent Posts - display the link text and the date of the latest article "
+"title."
+msgstr ""
+
+#: packages.php:186
+msgid ""
+"VK_Page content to widget - display the contents of the page to the widgets."
+msgstr ""
+
+#: packages.php:187
+msgid "VK_Profile - display the profile entered in the widget."
+msgstr ""
+
+#: packages.php:188
+msgid "VK_FB Page Plugin - display the Facebook Page Plugin."
+msgstr ""
+
+#: packages.php:189
+msgid "VK_3PR area - display the 3PR area."
+msgstr ""
+
+#: packages.php:190
+msgid "categories/tags list"
+msgstr ""
+
+#: packages.php:190
+msgid "Displays a categories, tags or format list."
+msgstr ""
+
+#: packages.php:191 plugins/other_widget/widget-archives.php:9
+msgid "archive list"
+msgstr ""
+
+#: packages.php:191 plugins/other_widget/widget-archives.php:14
+msgid ""
+"Displays a list of archives. You can choose the post type and also to "
+"display archives by month or by year."
+msgstr ""
+
+#: packages.php:196
+msgid "Widgets"
+msgstr ""
+
+#: packages.php:214
+msgid "CSS customize"
+msgstr ""
+
+#: packages.php:215
+msgid "You can set Customize CSS."
+msgstr ""
+
+#: packages.php:233
+msgid "Child page index"
+msgstr ""
+
+#: packages.php:234
+msgid ""
+"At the bottom of the specified page, it will display a list of the child "
+"page."
+msgstr ""
+
+#: packages.php:245
+msgid "Page list from ancestor"
+msgstr ""
+
+#: packages.php:246
+msgid "Display Page list from ancestor at after content."
+msgstr ""
+
+#: packages.php:256
+msgid "Contact Section"
+msgstr ""
+
+#: packages.php:257
+msgid "Display Contact Section at after content."
+msgstr ""
+
+#: packages.php:274
+msgid "Display HTML Site Map"
+msgstr ""
+
+#: packages.php:275
+msgid "It displays a HTML Site Map to the specified page."
+msgstr ""
+
+#: packages.php:284 plugins/call_to_action/view.adminsetting.php:10
+msgid "Display the CTA at the end of the post content."
+msgstr ""
+
+#: packages.php:286 plugins/call_to_action/view.adminsetting.php:11
+msgid ""
+"The CTA stands for \"Call to action\" and this is the area that prompts the "
+"user behavior."
+msgstr ""
+
+#: packages.php:288 plugins/call_to_action/view.adminsetting.php:12
+msgid ""
+"As an example, text message and a link button for induction to the free "
+"sample download page."
+msgstr ""
+
+#: packages.php:292 plugins/call_to_action/view.adminsetting.php:6
+msgid "Call To Action"
+msgstr ""
+
+#: packages.php:301
+msgid "Contents setting"
+msgstr ""
+
+#: packages.php:315 plugins/insert_ads.php:37 plugins/insert_ads.php:119
+msgid "Insert ads"
+msgstr ""
+
+#: packages.php:316
+msgid "Insert ads to content."
+msgstr ""
+
+#: packages.php:332 plugins/related_posts/related_posts.php:57
+msgid "Related posts"
+msgstr ""
+
+#: packages.php:333
+msgid "Print Related posts lists to post content bottom."
+msgstr ""
+
+#: packages.php:343 vkExUnit_admin.php:28
+msgid "Automatic Eye Catch insert"
+msgstr ""
+
+#: packages.php:344
+msgid "Display Eye Catch image at before content."
+msgstr ""
+
+#: packages.php:354
+msgid "Disable ping back"
+msgstr ""
+
+#: packages.php:355
+msgid "Disable xmlrpc ping back."
+msgstr ""
+
+#: packages.php:364 packages.php:365
+msgid "Disable dashbord"
+msgstr ""
+
+#: plugins/auto_eyecatch.php:40
+msgid "Automatic EyeCatch"
+msgstr ""
+
+#: plugins/auto_eyecatch.php:50
+msgid "Do not set eyecatch image automatic."
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:48
+#: plugins/call_to_action/view.actionbox.php:39
+msgid "Edit CTA"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:49
+msgid "Add new CTA"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:50
+msgid "New CTA"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:76
+#: plugins/call_to_action/class.call_to_action.php:78
+#: plugins/call_to_action/class.call_to_action.php:79
+msgid "Call to Action setting"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:81
+msgid "CTA Contents"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:89
+msgid "Follow common setting"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:90
+#: plugins/call_to_action/class.call_to_action.php:399
+msgid "Disable display"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:101
+msgid "CTA common setting"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:102
+#: plugins/call_to_action/view.adminsetting.php:22
+msgid "Show CTA index page"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:167
+msgid "CTA image"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:173
+msgid "Add image"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:174
+msgid "Change image"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:175
+msgid "Remove image"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:180
+msgid "CTA image position"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:183
+msgid "right"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:184
+msgid "center"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:185
+msgid "left"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:189
+msgid "Button text"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:192
+msgid "Button link url"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:195
+msgid "Text message"
+msgstr ""
+
+#: plugins/call_to_action/class.call_to_action.php:201
+msgid "CTA setting"
+msgstr ""
+
+#: plugins/call_to_action/view.adminsetting.php:14
+msgid "How to use"
+msgstr ""
+
+#: plugins/call_to_action/view.adminsetting.php:17
+msgid ""
+"You register the contents on \"CTA\" that you want to display to bottom of "
+"the content."
+msgstr ""
+
+#: plugins/call_to_action/view.adminsetting.php:18
+msgid "Choose the CTA to be displayed from the following."
+msgstr ""
+
+#: plugins/call_to_action/view.adminsetting.php:19
+msgid ""
+"If you want to switch the CTA to be displayed on each post, please set in "
+"the details page of such posting."
+msgstr ""
+
+#: plugins/call_to_action/view.adminsetting.php:32
+msgid "Show index page"
+msgstr ""
+
+#: plugins/child_page_index.php:40 plugins/other_widget/widget-3pr-area.php:270
+#: plugins/other_widget/widget-3pr-area.php:312
+#: plugins/other_widget/widget-3pr-area.php:355
+msgid "Read more"
+msgstr ""
+
+#: plugins/child_page_index.php:82
+msgid "Display a child page index"
+msgstr ""
+
+#: plugins/contact_section.php:46 plugins/contact_section.php:72
+msgid "Contact Information"
+msgstr ""
+
+#: plugins/contact_section.php:56 plugins/contact_section.php:79
+msgid "Please feel free to inquire."
+msgstr ""
+
+#: plugins/contact_section.php:58
+msgid "Office hours 9:00 - 18:00 [ Weekdays except holidays ]"
+msgstr ""
+
+#: plugins/contact_section.php:62
+msgid "Contact us"
+msgstr ""
+
+#: plugins/contact_section.php:76
+msgid "Message"
+msgstr ""
+
+#: plugins/contact_section.php:79 plugins/contact_section.php:86
+#: plugins/contact_section.php:93 plugins/contact_section.php:101
+#: plugins/contact_section.php:109 plugins/contact_section.php:117
+#: plugins/google_analytics/ga_admin.php:16 plugins/sns/sns_admin.php:31
+msgid "ex) "
+msgstr ""
+
+#: plugins/contact_section.php:83
+msgid "Phone number"
+msgstr ""
+
+#: plugins/contact_section.php:90 plugins/contact_section.php:93
+msgid "Office hours"
+msgstr ""
+
+#: plugins/contact_section.php:93
+msgid "Weekdays except holidays"
+msgstr ""
+
+#: plugins/contact_section.php:98
+msgid "The contact page URL"
+msgstr ""
+
+#: plugins/contact_section.php:101
+msgid "or"
+msgstr ""
+
+#: plugins/contact_section.php:102
+msgid "* If you fill in the blank, contact button does not appear."
+msgstr ""
+
+#: plugins/contact_section.php:106
+msgid "Contact button Text"
+msgstr ""
+
+#: plugins/contact_section.php:109
+msgid "Contact Us from email."
+msgstr ""
+
+#: plugins/contact_section.php:114
+msgid "Contact button text( sub )"
+msgstr ""
+
+#: plugins/contact_section.php:118
+msgid "Email contact form"
+msgstr ""
+
+#: plugins/contact_section.php:123
+msgid "Contact button short text for side widget"
+msgstr ""
+
+#: plugins/contact_section.php:127
+msgid "This will used to \"Contact Button\" widget."
+msgstr ""
+
+#: plugins/contact_section.php:148
+msgid "Display Contact Section"
+msgstr ""
+
+#: plugins/contact_section.php:224 plugins/contact_section.php:251
+msgid "Edit contact information"
+msgstr ""
+
+#: plugins/contact_section.php:270
+msgid "Contact Button"
+msgstr ""
+
+#: plugins/contact_section.php:276 plugins/contact_section.php:298
+#, php-format
+msgid ""
+"*It is necessary to set the \"%s\" -> \"Contact Information\" section in "
+"\"Main setting\" page."
+msgstr ""
+
+#: plugins/css_customize/css_customize-edit.php:2
+#: plugins/css_customize/css_customize.php:28
+#: plugins/css_customize/css_customize.php:44
+#: plugins/css_customize/css_customize.php:45
+msgid "CSS Customize"
+msgstr ""
+
+#: plugins/css_customize/css_customize-edit.php:5
+msgid "You can add custom CSS here."
+msgstr ""
+
+#: plugins/css_customize/css_customize-edit.php:10
+msgid "Save CSS"
+msgstr ""
+
+#: plugins/css_customize/css_customize.php:102
+msgid "Your custom CSS was saved."
+msgstr ""
+
+#: plugins/css_customize/css_customize.php:105
+msgid "Error occured. Please try again."
+msgstr ""
+
+#: plugins/footer_copyright_change.php:6
+msgid ""
+"<p>Powered by <a href=\"https://wordpress.org/\">WordPress</a> with <a href="
+"\"//lightning.vektor-inc.co.jp\" target=\"_blank\" title=\"Free WordPress "
+"Theme Lightning\"> Lightning Theme</a> &amp; <a href=\"http://ex-unit.vektor-"
+"inc.co.jp/\" target=\"_blank\">VK All in One Expansion Unit</a> by <a href="
+"\"http://www.vektor-inc.co.jp\" target=\"_blank\">Vektor,Inc.</a> technology."
+"</p>"
+msgstr ""
+
+#: plugins/google_analytics/ga_admin.php:9
+#: plugins/google_analytics/ga_admin.php:13
+#: plugins/google_analytics/google_analytics.php:18
+msgid "Google Analytics Settings"
+msgstr ""
+
+#: plugins/google_analytics/ga_admin.php:14
+msgid ""
+"Please fill in the Google Analytics ID from the Analytics embed code used in "
+"the site."
+msgstr ""
+
+#: plugins/google_analytics/ga_admin.php:19
+msgid ""
+"Please select the type of Analytics code . (If you are unsure you can skip "
+"this.)"
+msgstr ""
+
+#: plugins/google_analytics/ga_admin.php:23
+msgid "To output the Universal Analytics code (default)"
+msgstr ""
+
+#: plugins/google_analytics/ga_admin.php:24
+msgid "To output only normal code"
+msgstr ""
+
+#: plugins/google_analytics/ga_admin.php:25
+msgid "To output both types"
+msgstr ""
+
+#: plugins/icons.php:38 plugins/icons.php:68
+msgid "icon setting"
+msgstr ""
+
+#: plugins/icons.php:73
+msgid "Favicon Setting"
+msgstr ""
+
+#: plugins/icons.php:75
+msgid "Choose icon"
+msgstr ""
+
+#: plugins/icons.php:76
+msgid "Please upload your \".ico\" file"
+msgstr ""
+
+#: plugins/insert_ads.php:122
+msgid "Insert ads to post."
+msgstr ""
+
+#: plugins/insert_ads.php:124
+msgid "Insert ads to more tag and after content."
+msgstr ""
+
+#: plugins/insert_ads.php:124
+msgid "If you want to separate ads area, you fill two fields."
+msgstr ""
+
+#: plugins/insert_ads.php:126
+msgid "insert the ad [ more tag ]"
+msgstr ""
+
+#: plugins/insert_ads.php:134
+msgid "insert the ad [ after content ]"
+msgstr ""
+
+#: plugins/meta_description.php:20 plugins/meta_description.php:31
+#: plugins/meta_description.php:34
+msgid "Meta Description"
+msgstr ""
+
+#: plugins/meta_description.php:37
+msgid ""
+"What you have to complete the \"excerpt\" column of the edit screen of each "
+"page will be reflected in the description of the meta tag."
+msgstr ""
+
+#: plugins/meta_description.php:38
+msgid ""
+"Description of meta tags in the search results screen of search sites such "
+"as Google, will be Displayed, such as the bottom of the site title. If the "
+"excerpt column is blank, is 240 characters than text beginning of a sentence "
+"has become a specification that is applied as a description."
+msgstr ""
+
+#: plugins/meta_description.php:39
+msgid ""
+"The meta description of the top page is subject to the catchphrase of the "
+"site. However, its contents will be reflected if the excerpt is entered in "
+"fixed page that was set on the top page."
+msgstr ""
+
+#: plugins/meta_description.php:40
+msgid ""
+"If \"excerpt\" column is not found, Click \"Display Option\" of page top at "
+"each article edit page, and check the expert column display."
+msgstr ""
+
+#: plugins/meta_keyword.php:40 plugins/meta_keyword.php:91
+#: plugins/meta_keyword.php:93 plugins/meta_keyword.php:94
+#: plugins/meta_keyword.php:101
+msgid "Meta Keywords"
+msgstr ""
+
+#: plugins/meta_keyword.php:68
+msgid "Meta Keyword"
+msgstr ""
+
+#: plugins/meta_keyword.php:71
+msgid "Common Keywords"
+msgstr ""
+
+#: plugins/meta_keyword.php:72
+msgid ""
+"Keywords for meta tag. This words will set Meta Keyword with post keywords. "
+"if you want multiple keywords, enter with separator of \",\"."
+msgstr ""
+
+#: plugins/meta_keyword.php:75
+msgid "This is not seriously, Because the SearchEngine does not care this."
+msgstr ""
+
+#: plugins/meta_keyword.php:76
+msgid ""
+"For each page individual keyword is enter at the edit screen of each "
+"article. 10 keywords maximum, together with a each article keywords is "
+"desirable."
+msgstr ""
+
+#: plugins/meta_keyword.php:77
+msgid "\",\" separator at end of the last keyword is do not need."
+msgstr ""
+
+#: plugins/meta_keyword.php:78
+msgid "Example: WordPress,template,theme,free,GPL"
+msgstr ""
+
+#: plugins/meta_keyword.php:102
+msgid ""
+"To distinguish between individual keywords, please enter a , delimiter "
+"(optional)."
+msgstr ""
+
+#: plugins/meta_keyword.php:104
+#, php-format
+msgid "* keywords common to the entire site can be set from %s."
+msgstr ""
+
+#: plugins/other_widget/old/widget-rss-widget.php:9
+msgid "Displays entries list from a RSS feed link."
+msgstr ""
+
+#: plugins/other_widget/old/widget-rss-widget.php:11
+msgid "RSS entries for top"
+msgstr ""
+
+#: plugins/other_widget/old/widget-rss-widget.php:25
+msgid "Blog entries"
+msgstr ""
+
+#: plugins/other_widget/old/widget-rss-widget.php:30
+msgid "Heading title"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:9
+#: plugins/other_widget/widget-3pr-area.php:241
+#: plugins/other_widget/widget-3pr-area.php:283
+#: plugins/other_widget/widget-3pr-area.php:326
+msgid "3PR area"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:14
+msgid "Displays a 3PR area"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:20
+msgid "3PR area1 title"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:27
+msgid "3PR area2 title"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:34
+msgid "3PR area3 title"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:46
+msgid "3PR area1 setting"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:48
+#: plugins/other_widget/widget-3pr-area.php:98
+#: plugins/other_widget/widget-3pr-area.php:149
+#: plugins/other_widget/widget-new-posts.php:150
+#: plugins/other_widget/widget-pr-blocks.php:74
+#: plugins/other_widget/widget-profile.php:40
+#: plugins/sns/function_fbPagePlugin.php:79
+msgid "Title:"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:54
+#: plugins/other_widget/widget-3pr-area.php:104
+#: plugins/other_widget/widget-3pr-area.php:155
+msgid "Select image for PC:"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:57
+#: plugins/other_widget/widget-3pr-area.php:74
+#: plugins/other_widget/widget-3pr-area.php:110
+#: plugins/other_widget/widget-3pr-area.php:128
+#: plugins/other_widget/widget-3pr-area.php:161
+#: plugins/other_widget/widget-3pr-area.php:178
+#: plugins/other_widget/widget-pr-blocks.php:96
+#: plugins/other_widget/widget-profile.php:48
+msgid "Select image"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:58
+#: plugins/other_widget/widget-3pr-area.php:75
+#: plugins/other_widget/widget-3pr-area.php:111
+#: plugins/other_widget/widget-3pr-area.php:129
+#: plugins/other_widget/widget-3pr-area.php:162
+#: plugins/other_widget/widget-3pr-area.php:179
+#: plugins/other_widget/widget-pr-blocks.php:99
+#: plugins/other_widget/widget-profile.php:49
+msgid "Clear image"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:68
+#: plugins/other_widget/widget-3pr-area.php:122
+#: plugins/other_widget/widget-3pr-area.php:172
+msgid "Select image for Mobile:"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:84
+#: plugins/other_widget/widget-3pr-area.php:138
+#: plugins/other_widget/widget-3pr-area.php:188
+#: plugins/other_widget/widget-pr-blocks.php:110
+msgid "Summary Text:"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:90
+#: plugins/other_widget/widget-3pr-area.php:142
+#: plugins/other_widget/widget-3pr-area.php:192
+#: plugins/other_widget/widget-pr-blocks.php:114
+msgid "Link URL:"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:96
+msgid "3PR area2 setting"
+msgstr ""
+
+#: plugins/other_widget/widget-3pr-area.php:147
+msgid "3PR area3 setting"
+msgstr ""
+
+#: plugins/other_widget/widget-archives.php:53
+#: plugins/other_widget/widget-archives.php:54
+msgid "Monthly archives"
+msgstr ""
+
+#: plugins/other_widget/widget-archives.php:63
+#: plugins/other_widget/widget-new-posts.php:147
+#: plugins/other_widget/widget-new-posts.php:148
+msgid "Title"
+msgstr ""
+
+#: plugins/other_widget/widget-archives.php:67
+msgid "Post type"
+msgstr ""
+
+#: plugins/other_widget/widget-archives.php:77
+msgid "Monthly"
+msgstr ""
+
+#: plugins/other_widget/widget-archives.php:79
+msgid "Yearly"
+msgstr ""
+
+#: plugins/other_widget/widget-archives.php:97
+msgid "archive"
+msgstr ""
+
+#: plugins/other_widget/widget-child-page-list.php:10
+msgid "Child Page List"
+msgstr ""
+
+#: plugins/other_widget/widget-child-page-list.php:15
+#: plugins/other_widget/widget-child-page-list.php:50
+msgid "Display the child pages list from ancestor page."
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:11
+#: plugins/other_widget/widget-new-posts.php:29
+#: plugins/other_widget/widget-new-posts.php:137
+msgid "Recent Posts"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:16
+msgid "Displays a list of your most recent posts"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:146
+msgid "Display Format"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:147
+msgid "Thumbnail"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:147
+#: plugins/other_widget/widget-new-posts.php:148
+msgid "Date"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:148
+#: plugins/other_widget/widget-taxonomies.php:47
+#: plugins/other_widget/widget-taxonomies.php:48
+msgid "Category"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:155
+msgid "Display count"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:160
+msgid "Slug for the custom type you want to display"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:165
+msgid "taxonomy ID"
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:167
+msgid "if you need filtering by term, add the term ID separate by \",\"."
+msgstr ""
+
+#: plugins/other_widget/widget-new-posts.php:169 plugins/sns/sns_admin.php:66
+msgid "if empty this area, I will do not filtering."
+msgstr ""
+
+#: plugins/other_widget/widget-page.php:9
+msgid "page content to widget"
+msgstr ""
+
+#: plugins/other_widget/widget-page.php:14
+msgid "Displays a page contents to widget."
+msgstr ""
+
+#: plugins/other_widget/widget-page.php:34
+#: plugins/other_widget/widget-taxonomies.php:60
+msgid "Display page"
+msgstr ""
+
+#: plugins/other_widget/widget-page.php:42
+msgid "display title"
+msgstr ""
+
+#: plugins/other_widget/widget-page.php:66
+msgid "Edit"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:9
+msgid "PR Blocks"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:14
+msgid "Displays a circle image or icon font for pr blocks"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:22
+msgid "Service"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:30
+msgid "Company"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:38
+msgid "Recruit"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:46
+msgid "Contact"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:59
+msgid "The choice of the number of columns:"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:61
+msgid "3column"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:62
+msgid "4column"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:64
+msgid ""
+"If you change the number of columns, click to \"Save\" botton and exit the "
+"edit page. When restart the edit page, the column input form is increased or "
+"decreased."
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:71
+#: plugins/other_widget/widget-pr-blocks.php:168
+msgid "PR Block"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:78
+msgid "Class name of the icon font you want to use:"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:81
+msgid "To choose your favorite icon, and enter the class."
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:81
+msgid " ex:fa-file-text-o"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:85
+msgid "Icon bg-color:"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:89
+msgid "Select image:"
+msgstr ""
+
+#: plugins/other_widget/widget-pr-blocks.php:100
+msgid "When you have an image. Image is displayed with priority"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:9
+#: plugins/other_widget/widget-profile.php:20
+msgid "Profile"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:14
+msgid "Displays a your profile"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:27
+msgid "Profile Text"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:45
+msgid "Select Profile image:"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:58
+msgid "Cut out round the image."
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:62
+msgid "Media size (Optional)"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:67
+msgid "Image align left"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:71
+msgid "Text float to image."
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:75
+msgid "Profile Text:"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:79
+msgid "Facebook URL:"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:84
+msgid "Twitter URL:"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:89
+msgid "Email Address:"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:94
+msgid "Youtube URL:"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:99
+msgid "RSS URL:"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:104
+msgid "instagram URL:"
+msgstr ""
+
+#: plugins/other_widget/widget-profile.php:108
+msgid "linkedin URL:"
+msgstr ""
+
+#: plugins/other_widget/widget-taxonomies.php:9
+msgid "Categories/Custom taxonomies list"
+msgstr ""
+
+#: plugins/other_widget/widget-taxonomies.php:14
+msgid "Displays a categories and custom taxonomies list."
+msgstr ""
+
+#: plugins/other_widget/widget-taxonomies.php:56
+msgid "Label to display"
+msgstr ""
+
+#: plugins/other_widget/widget-taxonomies.php:76
+msgid "Blog"
+msgstr ""
+
+#: plugins/pageList_ancestor.php:64
+msgid "Display a page list from ancestor"
+msgstr ""
+
+#: plugins/page_custom_field.php:11
+msgid "Setting of insert items"
+msgstr ""
+
+#: plugins/sitemap_page/sitemap_admin.php:9
+msgid "HTML Sitemap Settings"
+msgstr ""
+
+#: plugins/sitemap_page/sitemap_admin.php:13
+msgid "Exclude page Settings"
+msgstr ""
+
+#: plugins/sitemap_page/sitemap_admin.php:15
+msgid "Input you want to exclude page id."
+msgstr ""
+
+#: plugins/sitemap_page/sitemap_admin.php:17
+msgid ""
+"* Please enter separated by \",\"(commas) if there is more than one page ID "
+"that you want to exclude."
+msgstr ""
+
+#: plugins/sitemap_page/sitemap_page.php:31
+msgid "HTML Sitemap"
+msgstr ""
+
+#: plugins/sitemap_page/sitemap_page.php:223
+msgid "Display a HTML sitemap"
+msgstr ""
+
+#: plugins/sns/function_fbPagePlugin.php:13
+msgid "Displays a Facebook Page Plugin"
+msgstr ""
+
+#: plugins/sns/function_fbPagePlugin.php:89
+msgid "Height"
+msgstr ""
+
+#: plugins/sns/function_fbPagePlugin.php:94
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: plugins/sns/function_fbPagePlugin.php:99
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: plugins/sns/function_fbPagePlugin.php:104
+msgid "Show Page Posts"
+msgstr ""
+
+#: plugins/sns/function_follow.php:16
+msgid "Follow me"
+msgstr ""
+
+#: plugins/sns/function_meta_box.php:28
+msgid "Sns Title"
+msgstr ""
+
+#: plugins/sns/function_meta_box.php:39
+msgid "if filled this area then override title of OGP and Twitter Card"
+msgstr ""
+
+#: plugins/sns/sns.php:17
+msgid "SNS"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:1
+msgid "SNS Settings"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:13
+msgid "facebook application ID"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:15
+msgid "I will check and get the application ID"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:16
+msgid ""
+"* If an application ID is not specified, neither a Like button nor the "
+"comment field displays and operates correctly."
+msgstr ""
+
+#: plugins/sns/sns_admin.php:17
+msgid ""
+"Please search for terms as [get Facebook application ID] If you do not know "
+"much about how to get application ID for Facebook."
+msgstr ""
+
+#: plugins/sns/sns_admin.php:21
+msgid "facebook page URL"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:26
+msgid "OG default image"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:27
+msgid ""
+"If, for example someone pressed the Facebook [Like] button, this is the "
+"image that appears on the Facebook timeline."
+msgstr ""
+
+#: plugins/sns/sns_admin.php:28
+msgid "If a featured image is specified for the page, it takes precedence."
+msgstr ""
+
+#: plugins/sns/sns_admin.php:30
+msgid "Select an image"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:32
+msgid ""
+"* Picture sizes are 300x300 pixels or more and picture ratio 16:9 is "
+"recommended."
+msgstr ""
+
+#: plugins/sns/sns_admin.php:36
+msgid "twitter ID"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:41
+msgid "OG tags"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:43
+msgid "Print the OG tags"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:44
+msgid ""
+"If other plug-ins are used for the OG, do not output the OG using this "
+"plugin."
+msgstr ""
+
+#: plugins/sns/sns_admin.php:49
+msgid "Twitter Card tags"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:51
+msgid "Print the Twitter Card tags"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:56
+msgid "Social bookmark buttons"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:57
+msgid "Print the social bookmark buttons"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:61
+msgid "ignore postID for SNS buttons"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:64
+msgid ""
+"if you need filtering by post_ID, add the ignore post_ID separate by \",\"."
+msgstr ""
+
+#: plugins/sns/sns_admin.php:68
+msgid "example"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:74
+msgid "Follow me box"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:75
+msgid "Print the Follow me box"
+msgstr ""
+
+#: plugins/sns/sns_admin.php:77
+msgid "Follow me box title"
+msgstr ""
+
+#: plugins_admin/admin_bar.php:17 plugins_admin/admin_bar.php:34
+msgid "Edit Guide"
+msgstr ""
+
+#: plugins_admin/admin_bar.php:60
+msgid "Active Setting"
+msgstr ""
+
+#: plugins_admin/admin_bar.php:68
+msgid "Main Setting"
+msgstr ""
+
+#: plugins_admin/dashboard_info_widget.php:18
+msgid "News from VK All in One Expansion Unit"
+msgstr ""
+
+#: plugins_admin/news_from_exUnit.php:31
+msgid "Sorry, there is no post"
+msgstr ""
+
+#: vkExUnit_admin.php:3
+msgid "Enable setting"
+msgstr ""
+
+#: vkExUnit_admin.php:16 vkExUnit_admin.php:74
+msgid "Select all"
+msgstr ""
+
+#: vkExUnit_admin.php:16 vkExUnit_admin.php:74
+msgid "Function"
+msgstr ""
+
+#: vkExUnit_admin.php:16 vkExUnit_admin.php:74
+msgid "Description"
+msgstr ""
+
+#: vkExUnit_admin.php:80
+msgid "Extension Setting"
+msgstr ""
+
+#: vkExUnit_admin.php:83
+msgid "Plugin setting options"
+msgstr ""
+
+#: vkExUnit_admin.php:85
+msgid "Delete myOptions when deactivate me."
+msgstr ""
